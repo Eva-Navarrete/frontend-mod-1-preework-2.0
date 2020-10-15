@@ -8,7 +8,7 @@ console.log(" Hello World!");
    //anything after two backward slashes are comments and they don't affect the code.
 
 1. Explain the difference between an integer and a floating-point number?
-  an integer is just a number it can be a positive or negative, a floating-point number has a decimal and is intended to be more precise in code.
+    an integer is just a number it can be a positive or negative, a floating-point number has a decimal and is intended to be more precise in code.
 
 1. In the space below, create a variable `animal` that holds the string `"zebra"`.
 ```javascript

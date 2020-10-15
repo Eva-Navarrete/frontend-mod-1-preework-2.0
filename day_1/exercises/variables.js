@@ -4,6 +4,7 @@
 // example: Write code below to assign your name to a variable and
 // log that variable to the console:
 var name = "Harry Potter";
+
 console.log(name);
 
 // Write code below to assign the string 'Dobby' to a variable and
@@ -19,7 +20,10 @@ console.log(name + " must not return to Hogwarts!");// YOUR CODE HERE
 // example: Write code below to add 2 to the variable `students` and
 // log the result:
 var students = 22;
-console.log(students = 24);// YOUR CODE HERE
+
+students = 24;
+
+console.log(students =24 );// YOUR CODE HERE
 console.log(students);
 
 // Write the code below to subtract 2 students from the `students` variable and

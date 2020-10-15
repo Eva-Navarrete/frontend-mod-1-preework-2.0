@@ -17,3 +17,14 @@ for (var i = 0; i < 7; i++) {
  for (var i = 0; i < 10; i++) {
    console.log("She sells seashells down by the seasshore");
  }// YOUR CODE HERE
+
+
+
+
+
+
+
+//Goal: getting every number to printo from 1-5
+for (var i = 1; i <= 5; i-- ){
+  console.log(i);
+};
