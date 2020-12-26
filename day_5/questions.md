@@ -27,4 +27,4 @@ MN: Minnesota,
   an object is better than an array because it gives you more opportunity to store data
 
 1. What questions do you still have about objects?
-  im not sure if i really understand the definition of data.
+  I'm not sure if i really understand the definition of data.

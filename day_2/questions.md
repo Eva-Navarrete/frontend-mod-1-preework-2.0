@@ -37,3 +37,4 @@ console.log(2 == 25); //The result would be false
 ```Javascript
 console.log(2 < 25); //The result would be true
 ```
+//testing

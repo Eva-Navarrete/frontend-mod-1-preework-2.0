@@ -5,7 +5,7 @@ file from your terminal with the command `node day_2/exercises/functions-and-var
 
 ---------------------------------------------------------
 
-A function definition creates its own scope outside the regular flow of execution. This is why local variables
+A function defintion creates its own scope outside the regular flow of execution. This is why local variables
 within a function definition cannot be referenced from outside of the function definition. It's also the reason
 why local variables within a function definition cannot access data outside of the function definition
 (unless the data is passed in as a parameter).

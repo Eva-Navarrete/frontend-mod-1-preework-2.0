@@ -1,5 +1,5 @@
 /*
-In the exercises below, write your own code where indicated
+In the exercises below, write your own code where indcated
 to achieve the desired result. You should be able to run this
 file from your terminal with the command `node day_4/exercises/burrito.js`
 

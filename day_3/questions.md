@@ -12,7 +12,7 @@
     console.log("");
   }
 ```
-1. How do you add multiple conditions to an if statement?
+1. How do you add multiple conditions to an if statement!?
     you add them by using if/ else if/ else
 
 1. What is the JavaScript syntax for an if/else if/else statement?
@@ -26,4 +26,4 @@ if (condition1) {
 }
 ```
 1. Other than an if-statement, can you think of any other ways we might want to use a conditional statement?
-  honestly I don't know of any other way if statements can be used. 
+  honestly I don't know of any other way if statements can be used.

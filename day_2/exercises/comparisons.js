@@ -59,4 +59,4 @@ console.log(0 == true) // this should return: false
 // log the result of the comparison: is 1 equal to true?
 console.log(1 == true) // this should return: true
 
-// note: this is an example of a truthy value. In an evalution like this, 1 is considered to be true
+// note: this is an example of a truthy value. In an evalution lik this, 1 is considered to be true

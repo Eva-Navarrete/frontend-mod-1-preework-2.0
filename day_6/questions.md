@@ -20,3 +20,5 @@ instances are different versions of the class
 
 1. What questions do you still have about classes in JavaScript?
   I understand what a class, what i don't really understand is the syntax for everything that goes into it
+
+  //test

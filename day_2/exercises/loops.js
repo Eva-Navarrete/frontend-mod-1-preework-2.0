@@ -16,7 +16,7 @@ for (var i = 0; i < 7; i++) {
 
  for (var i = 0; i < 10; i++) {
    console.log("She sells seashells down by the seasshore");
- }// YOUR CODE HERE
+ }// YOUR CODE HER
 
 
 

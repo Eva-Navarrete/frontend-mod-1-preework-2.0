@@ -68,7 +68,7 @@ You should be able to change the variables to achieve the following outputs:
 When cupsOfFlour = 1 and hasSauce = true, your program should log "I cannot make pizza";
 When cupsOfFlour = 1 and hasSauce = false, your program should log "I cannot make pizza";
 When cupsOfFlour = 2 and hasSauce = true, your program should log "I can make pizza";
-When cupsOfFlour = 3 and hasSauce = true, your program should log "I can make pizza";
+When cupsOfFlour = 3 and hasSauce = true, your progam should log "I can make pizza";
 */
 
 var cupsOfFlour = 2;

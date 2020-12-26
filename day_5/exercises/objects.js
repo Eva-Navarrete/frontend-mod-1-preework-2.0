@@ -1,5 +1,5 @@
 /*
-In the exercises below, write your own code where indicated
+In the exercises below, write your own cod where indicated
 to achieve the desired result. You should be able to run this
 file from your terminal with the command `node day_4/exercises/objects.js`
 */
@@ -50,5 +50,5 @@ console.log(tigersObject[0]);// YOUR CODE HERE
 
 // Add an animal to the zoo object and print the updated object.
 zoo.gorilla = 6; //dot notation
-zoo["gorilla"]= 6; //bracket notation 
+zoo["gorilla"]= 6; //bracket notation
 console.log(zoo);// YOUR CODE HERE

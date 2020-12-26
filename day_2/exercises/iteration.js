@@ -32,4 +32,4 @@ for (var i = 0; i < foods.length; i++) {
 var numbers = ["1", "2", "3"];
 for (var i = 0; i < numbers.length; i++){
   console.log(numbers[i] +numbers[i]);
-}// YOUR CODE HERE
+}// YOUR CODE HER

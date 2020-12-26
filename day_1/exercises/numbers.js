@@ -18,3 +18,4 @@ console.log(20 / 4);// log the result of 20 divided by 4 to console:
 
 console.log(54 % 10);// log the result of the modulo of 10 into 54:
 // YOUR CODE HERE
+//test

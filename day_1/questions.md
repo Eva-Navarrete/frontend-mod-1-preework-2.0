@@ -25,3 +25,5 @@ console.log("The" + animal = " is cool!");
   ```javascript
 console.log("There are many animals in Africa, including the " + animal);
   ```
+
+  //testing

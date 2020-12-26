@@ -47,4 +47,4 @@ console.log(animals + "," + "Lion");// YOUR CODE HERE
 // Write code below that removes the last item of food from the foods array and
 // log the result
 food.pop('Hot dog')
-console.log(food);// YOUR CODE HERE
+console.log(food);// YOUR CODE HER

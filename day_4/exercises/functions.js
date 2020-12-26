@@ -4,7 +4,7 @@ to achieve the desired result. You should be able to run this
 file from your terminal with the command `node day_4/exercises/functions.js`
 */
 
-//example: Write a function below that, when called will print your name
+//example: Write a functon below that, when called will print your name
 function printName(villian) {
 
   console.log(villian);

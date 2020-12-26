@@ -37,4 +37,5 @@ console.log(name + " I am.");
 hello_someone("Eva");
 ```
 1. What questions do you still have about functions in Javascript?
-  I don't really understand what inscope and outer scope in a function mean. 
+  I don't really understand what inscope and outer scope in a function mean.
+//testing
