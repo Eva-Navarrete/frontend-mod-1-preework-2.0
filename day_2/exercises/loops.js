@@ -25,6 +25,6 @@ for (var i = 0; i < 7; i++) {
 
 
 //Goal: getting every number to printo from 1-5
-for (var i = 1; i <= 5; i-- ){
+for (var i = 1; i <= 5; i++ ){
   console.log(i);
 };
